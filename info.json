@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "title": "Loader Rotation Fix",
+  "factorio_version": "0.14",
+  "description": "Loaders will attempt to fix their rotation after placement based on their direction.",
+  "author": "Articulating",
+  "name": "Loader-Rotation-Fix",
+  "homepage": "",
+  "contact": ""
+}
